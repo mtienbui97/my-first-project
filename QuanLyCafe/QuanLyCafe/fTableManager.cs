@@ -228,6 +228,7 @@ namespace QuanLyCafe
             }
 
 
+
         }
 
         private void f_UpdateFood(object sender, EventArgs e)
@@ -271,5 +272,7 @@ namespace QuanLyCafe
 
             LoadFoodListByCategoryID(id);
         }
+
+        
     }
 }
